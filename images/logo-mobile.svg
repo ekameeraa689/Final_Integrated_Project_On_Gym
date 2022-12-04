@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="116" height="80" viewBox="0 0 116 80">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="116" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="116" height="80" fill="#fff"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(9.127 -15.123)">
+      <g id="Group_4" data-name="Group 4">
+        <g id="Group_2" data-name="Group 2" transform="translate(-2.583 8.01)">
+          <path id="Path_1" data-name="Path 1" d="M319.708,213.521" transform="translate(-299.94 -159.993)" fill="#fff"/>
+          <path id="Path_2" data-name="Path 2" d="M316.766,214.55l36.413.133,5.654-23.974-2.414,4.974-2.871,4.262-1.142.956-1.8,1.211-1.218.328-.816.085-1-.185-1.033-.4-.859-.541.13-1.682,1.207-13.312-3.077,6.357-2.24,3.691-.348.014-2.859-6.086-2.933-8.039.5-.157.631-.413.7-1.369.043-2.037-.652-1.269-.7-.656-.685-.271h-.978l-.447.2-.435.314-.37.47-.272.4-.228.912-.054,1.382.022.313.152.456.229.514.446.684s-.066.114.359.356l.424.242.044.257-.609,2.081-2.338,6.4-2.447,5.189-1.957,3.221-.326-.072-3.458-5.345L321.025,190l-1.762-3.705v1.154l.413,4.433.587,5.873.271,3.62-.043.2-.218.042-2.055-1.34-2.62-2.223-3.186-3.578-4.262-5.8.337,1.369,2.044,6.257,4.154,12.058Z" transform="translate(-301.377 -154.67)" fill="#231f20"/>
+          <path id="Path_3" data-name="Path 3" d="M319.849,215.53v8.183l36.293-.076V215.53H319.849Z" transform="translate(-304.34 -152.333)" fill="#231f20"/>
+          <path id="Path_4" data-name="Path 4" d="M306.254,183.918h1.021l.5.155.54.508.248.48.073.678-.088.691-.393.522-.365.409-.146.113-.467.17h-1.094l-.51-.353-.584-.607-.131-.423-.058-1.031.379-.55s.394-.437.5-.522l.1-.085Z" transform="translate(-299.94 -153.353)" fill="#231f20"/>
+          <path id="Path_5" data-name="Path 5" d="M321.79,181.477h.788l.773.282.554.508.2.607v.79l-.117.593-.438.607-.605.381h-1.306l-.715-.381-.423-.508-.248-.649v-.988l.467-.635.438-.339Z" transform="translate(-305.08 -152.601)" fill="#231f20"/>
+          <path id="Path_6" data-name="Path 6" d="M360.446,181.575h1.429l.759.565.321.72s.029.564,0,1.03-.307.55-.307.55l-.467.48-.218.127-.256.212h-1.261l-.555-.353-.423-.494-.2-.452v-1.312l.423-.678Z" transform="translate(-315.462 -151.602)" fill="#231f20"/>
+          <path id="Path_7" data-name="Path 7" d="M376.715,184.125h1.473l.7.508.408.564.088.141v1.383l-.394.494-.54.466-.248.141-1.488-.056-.569-.423-.511-.677v-1.4l.277-.437Z" transform="translate(-319.729 -151.322)" fill="#231f20"/>
+        </g>
+      </g>
+    </g>
+    <text id="_King_Queen" data-name="  King
+     &amp;
+Queen" transform="translate(67 20)" fill="#d1ab2b" font-size="12" font-family="Algerian"><tspan x="0" y="11" xml:space="preserve">  King</tspan><tspan x="0" y="27" xml:space="preserve">     &amp;</tspan><tspan x="0" y="43">Queen</tspan></text>
+  </g>
+</svg>
