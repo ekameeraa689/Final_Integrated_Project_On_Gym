@@ -204,6 +204,12 @@ you work on and the intended audience */
 	/* Remove as content will dictate height */
 	height: 80px;
 	margin-bottom: 100px;
+    background-color: whitesmoke;
+    color: black;
+}
+
+#footer-nav .box-color {
+  box-sizing: border-box;
 }
 
 #footer-newsletter1 {
@@ -280,3 +286,4 @@ you work on and the intended audience */
 .fa:hover {
 	opacity: 0.7;
 }
+
