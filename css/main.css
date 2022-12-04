@@ -5,7 +5,7 @@
 
 .box-color {
 	color: #fff;
-	background: #000;
+
 	text-align: center;
 	margin: 0;
 }
@@ -28,7 +28,7 @@ img {
 /*html selectors*/
 
 body {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Verdana, Geneva, Tahoma, sans-serif";
 	font-size: 12px;
 }
 
@@ -137,7 +137,8 @@ you work on and the intended audience */
 }
 
 .product-box {
-	background-color: #ddd;
+	background-color: black;
+    background-image: url("../images/index_img/Image-2-background.jpg");
 }
 
 #about-con {
@@ -165,24 +166,29 @@ you work on and the intended audience */
 #contact {
 	margin-top: 100px;
 	margin-bottom: 100px;
+    background-color: white;
 }
 
 #contact-text {
 	grid-column: 1/8;
 	/* Remove as content will dictate height */
 	height: 700px;
+    background-color: none;
 }
 
 #contact-form {
 	grid-column: 8/-1;
 	/* Remove as content will dictate height */
-	height: 700px;
+	height: 500px;
+    width: 450px;
+    margin-top: 80px;
+    background-color: darkslategrey;
 }
 
 /*Common page elements  */
 
 #footer-con {
-	background-color: #aaaaaa;
+	background-color: black;
 	padding-top: 50px;
 	padding-bottom: 20px;
 }
@@ -223,9 +229,11 @@ you work on and the intended audience */
 /* gallery page */
 
 #gallery-hero-con {
-	background-color: #aaaaaa;
-	background: url("https://via.placeholder.com/1920x580");
+	background-color: white;
+	background: url("..images/gallery-img/hero-image2");
 	height: 580px;
+    background-repeat: no-repeat;
+    background-size: 100px 100px;
 }
 
 #gallery-text {
@@ -262,4 +270,13 @@ you work on and the intended audience */
 	/* Remove as content will dictate height */
 	height: 507px;
 	margin-bottom: 20px;
+}
+
+/*css custom*/
+.fa-size{
+	font-size:50px;
+}
+
+.fa:hover {
+	opacity: 0.7;
 }
