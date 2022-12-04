@@ -1,0 +1,64 @@
+/* gallery page */
+
+#gallery-hero-con {
+	background-color: #aaaaaa;
+	background: url("https://via.placeholder.com/1920x580");
+	height: 580px;
+}
+
+#gallery-text {
+	grid-column: 1/9;
+	/* Remove as content will dictate height */
+	height: 200px;
+	margin-top: 100px;
+}
+
+#gallery-controls {
+	margin-top: 200px;
+	grid-column: 6/8;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.dot {
+	background-color: #dddddd;
+	height: 30px;
+	width: 30px;
+	border-radius: 50%;
+	margin: 5px;
+  }
+
+#gallery h2 {
+	grid-column: 1/-1;
+	text-align: center;
+  }
+
+.gallery-box {
+	background-color: #ddd;
+	grid-column: span 4 / span 4;
+	/* Remove as content will dictate height */
+	height: 507px;
+	margin-bottom: 20px;
+}
+
+#footer-con {
+background-color: darkcyan;
+}
+
+#footer-logo {
+	background-color: white;
+}
+
+#footer-nav {
+	background-color: whitesmoke;
+}
+
+#footer-newsletter1 {
+	background-color: red;
+	color: white;
+}
+ 
+#footer-newsletter2 {
+	background-color: red;
+}
