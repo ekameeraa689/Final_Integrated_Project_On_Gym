@@ -448,7 +448,42 @@ textarea::placeholder {
 	margin-bottom: 20px;
 }
 
-#product-title {
+#product1 {
+    color: red;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#product2 {
+    color: red;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#product3 {
+    color: red;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#product4 {
+    color: red;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#product5 {
+    color: red;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#product6 {
     color: red;
 	font-size: 40px;
 	font-weight: bold;
